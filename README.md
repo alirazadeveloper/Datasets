@@ -40,7 +40,3 @@ Cross-Species-Methylation-Dataset/
 
 The dataset is publicly available through this GitHub repository.
 
-
-
-For questions, research collaboration, or issues related to the dataset, please open an issue in this repository.
-
